@@ -17,7 +17,8 @@ class Solution {
     public boolean isCompleteTree(TreeNode root) {
         if(root == null) return true;
 
-        Queue<TreeNode> q = new LinkedList<>(Arrays.asList(root));
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
 
         while(q.peek() != null){
             TreeNode node = q.poll();
