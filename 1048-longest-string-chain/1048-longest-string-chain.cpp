@@ -10,7 +10,7 @@ public:
         for(int i = 0; i < word.size(); i++){
             string prev = word.substr(0, i) + word.substr(i + 1);
             if(st.count(prev)){
-                best = max(best, 1 + dfs(prev));
+                best = max(best, 1 + memo[prev]);
             }
         }
 
