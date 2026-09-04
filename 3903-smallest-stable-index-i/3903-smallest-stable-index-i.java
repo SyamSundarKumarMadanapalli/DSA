@@ -9,7 +9,7 @@ class Solution {
             mins[i] = Math.min(mins[i + 1], nums[i]);
         }
 
-        int maxi = Integer.MIN_VALUE;
+        int maxi = 0;
         for(int i = 0; i < n; i++){
             maxi = Math.max(maxi, nums[i]);
 
