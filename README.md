@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,5 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 <!---LeetCode Topics End-->
