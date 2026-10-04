@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
