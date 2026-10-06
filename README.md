@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
