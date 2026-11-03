@@ -2,29 +2,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -34,52 +35,53 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -89,8 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -100,51 +102,51 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1096-brace-expansion-ii](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -152,7 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SyamSundarKumarMadanapalli/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
